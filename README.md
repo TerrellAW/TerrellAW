@@ -1,4 +1,5 @@
 I love learning and trying new things in Software Development. Right now I'm improving my Discord bot and working on a game.
+I'm always looking for open source projects to contribute to.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TerrellAW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
