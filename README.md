@@ -46,7 +46,9 @@ I love learning and trying new things in Software Development. Right now I'm imp
 ## Current Projects
 
 **Discord Bot** - Periodically improving the codebase and adding new features, particularly interesting APIs
+
 **Game Development** - Always working on projects to learn more about Game Dev and eventually release and indie game
+
 **Portfolio** - Working to finish adding all necessary information to my self-hosted Ruby-on-Rails portfolio
 
 ## Open Source
