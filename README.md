@@ -1,10 +1,9 @@
+<div align="center">
 ## About Me
 
 I love learning and trying new things in Software Development. Right now I'm improving my Discord bot and working on a game.
 
 ## Technologies & Tools
-
-<div align="center">
 
 **Languages:**  
 ![CSharp](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -43,8 +42,6 @@ I love learning and trying new things in Software Development. Right now I'm imp
 ### Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TerrellAW&theme=react-dark&area=true&hide_border=true&height=300)
 
-</div>
-
 ## Current Projects
 
 - **Discord Bot** - Periodically improving the codebase and adding new features, particularly interesting APIs
@@ -54,3 +51,5 @@ I love learning and trying new things in Software Development. Right now I'm imp
 ## Open Source
 
 I'm always looking for open source projects to contribute to. Feel free to reach out if you have interesting projects that could use some help, or if you want to contribute to one of my projects.
+
+</div>
