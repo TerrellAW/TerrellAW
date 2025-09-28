@@ -1,4 +1,5 @@
 <div align="center">
+  
 ## About Me
 
 I love learning and trying new things in Software Development. Right now I'm improving my Discord bot and working on a game.
