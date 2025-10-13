@@ -33,14 +33,11 @@ I love learning and trying new things in Software Development. Right now I'm imp
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## GitHub Statistics
-  
-### Most Used Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TerrellAW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TerrellAW&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-### Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TerrellAW&theme=react-dark&area=true&hide_border=true&height=300)
 
 ## Current Projects
