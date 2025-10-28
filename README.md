@@ -34,7 +34,7 @@ I love learning and trying new things in Software Development. Right now I'm imp
 
 ## GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TerrellAW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TerrellAW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=10)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TerrellAW&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
