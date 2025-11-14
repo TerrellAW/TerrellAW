@@ -2,7 +2,7 @@
   
 ## About Me
 
-I love learning and trying new things in Software Development. Right now I'm improving my Discord bot and working on a game.
+I love learning and trying new things in Software Development. Right now I'm creating a Font and working on a game engine.
 
 ## Technologies & Tools
 
@@ -43,9 +43,9 @@ I love learning and trying new things in Software Development. Right now I'm imp
 
 ## Current Projects
 
-**Discord Bot** - Periodically improving the codebase and adding new features, particularly interesting APIs
+**Game Engine** - Working on a game engine to expand my knowledge on fundamental game systems.
 
-**Game Development** - Always working on projects to learn more about Game Dev and eventually release an indie game
+**Discord Bot** - Periodically improving the codebase and adding new features, particularly interesting APIs
 
 **Portfolio** - Working to finish adding all necessary information to my self-hosted Ruby-on-Rails portfolio
 
