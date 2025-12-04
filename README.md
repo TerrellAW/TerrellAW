@@ -2,7 +2,7 @@
   
 ## About Me
 
-I love learning and trying new things in Software Development. Right now I'm creating a font and working on a game engine.
+I love learning and trying new things in Software Development. Right now I'm working on a programming language.
 
 ## Technologies & Tools
 
@@ -43,7 +43,7 @@ I love learning and trying new things in Software Development. Right now I'm cre
 
 ## Current Projects
 
-**Game Engine** - Working on a game engine to expand my knowledge on fundamental game systems
+**Programming Language** - Creating a programming language to learn more about C and low-level programming
 
 **Discord Bot** - Periodically improving the codebase and adding new features, particularly interesting APIs
 
