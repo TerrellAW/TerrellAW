@@ -35,7 +35,7 @@ I love learning and trying new things in Software Development. Right now I'm wor
 
 ## GitHub Statistics
 
-![Top Languages](https://my-readme-stats.duckdns.org/api/top-langs/?username=TerrellAW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=10)
+![Top Languages](https://my-readme-stats.duckdns.org/api/top-langs/?username=TerrellAW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=10&cached_seconds=10800)
 
 ![GitHub Stats](https://my-readme-stats.duckdns.org/api?username=TerrellAW&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
