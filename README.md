@@ -47,7 +47,7 @@ I love learning and trying new things in Software Development. Right now I'm wor
 
 **Discord Bot** - Periodically improving the codebase and adding new features, particularly interesting APIs
 
-**Portfolio** - Working to finish adding all necessary information to my self-hosted Ruby-on-Rails portfolio
+**Portfolio** - Looking for a framework that's easier to maintain
 
 ## Open Source
 
