@@ -43,11 +43,15 @@ I love learning and trying new things in Software Development. Right now I'm wor
 
 ## Current Projects
 
-**Programming Language** - Creating a programming language to learn more about C and low-level programming
+<div align="left">
 
-**Discord Bot** - Periodically improving the codebase and adding new features, particularly interesting APIs
+  **Programming Language** - Creating a programming language to learn more about C and low-level programming
 
-**Portfolio** - Looking for a framework that's easier to maintain
+  **Discord Bot** - Periodically improving the codebase and adding new features, particularly interesting APIs
+
+  **Portfolio** - Looking for a framework that's easier to maintain
+  
+</div>
 
 ## Open Source
 
