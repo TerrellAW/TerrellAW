@@ -55,6 +55,10 @@ I love learning and trying new things in Software Development. Right now I'm wor
 
 ## Open Source
 
-I'm always looking for open source projects to contribute to. Feel free to reach out if you have interesting projects that could use some help, or if you want to contribute to one of my projects.
+<div align="left">
+  
+  I'm always looking for open source projects to contribute to. Feel free to reach out if you have interesting projects that could use some help, or if you want to contribute to one of my projects.
+  
+</div>
 
 </div>
