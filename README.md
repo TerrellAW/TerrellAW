@@ -10,7 +10,7 @@ I love learning and trying new things in Software Development. Right now I'm wor
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-239120?style=for-the-badge&logo=cshrp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
@@ -19,9 +19,7 @@ I love learning and trying new things in Software Development. Right now I'm wor
 ![MonoGame](https://img.shields.io/badge/-MonoGame-E73C00?style=for-the-badge&logo=monogame&logoColor=white)
 ![MAUI Blazor](https://img.shields.io/badge/-MAUI%20Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![DotNet](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Rails](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![React](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
