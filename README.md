@@ -2,7 +2,7 @@
   
 ## About Me
 
-I love learning and trying new things in Software Development. Right now I'm working on a programming language.
+I love learning and trying new things in Software Development. Right now I'm working on a programming language and learning embedded programming on my Pi Pico.
 
 ## Technologies & Tools
 
