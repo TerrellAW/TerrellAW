@@ -46,6 +46,8 @@ I love learning and trying new things in Software Development. Right now I'm wor
 
   **Programming Language** - Creating a programming language to learn more about C and low-level programming
 
+  **Embedded Programming** - Learning Embedded Programming with bare metal projects on Raspberry Pi Pico
+
   **Discord Bot** - Periodically improving the codebase and adding new features, particularly interesting APIs
 
   **Portfolio** - Looking for a framework that's easier to maintain
