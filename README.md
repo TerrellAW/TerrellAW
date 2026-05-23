@@ -2,7 +2,7 @@
   
 ## About Me
 
-I love learning and trying new things in Software Development. Right now I'm working on a programming language and learning embedded programming on my Pi Pico.
+I'm an Indie Game developer eager to expand my knowledge of game development and one day make an engine of my own.
 
 ## Technologies & Tools
 
@@ -35,13 +35,11 @@ I love learning and trying new things in Software Development. Right now I'm wor
 
 <div align="left">
 
-  **Programming Language** - Creating a programming language to learn more about C and low-level programming
+  **Mobile Platformer Game** - Working on a platformer game for mobile devices
 
-  **Embedded Programming** - Learning Embedded Programming with bare metal projects on Raspberry Pi Pico
+  **Arcade Jam 2026 FPS Game** - Continuing work on our project from the 2026 CGDA Arcade Jam
 
-  **Discord Bot** - Periodically improving the codebase and adding new features, particularly interesting APIs
-
-  **Portfolio** - Looking for a framework that's easier to maintain
+  **Top Down RPG Game** - Working with fellow students to expand on a previous game jam project
   
 </div>
 
