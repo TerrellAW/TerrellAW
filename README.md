@@ -29,6 +29,10 @@ I'm an Indie Game developer eager to expand my knowledge of game development and
 
 ## GitHub Statistics
 
+![Top Languages](https://github-readme-stats-2ql80qlw6-terrellaws-projects.vercel.app/api/top-langs/?username=TerrellAW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=10&cached_seconds=10800)
+
+![GitHub Stats](https://github-readme-stats-2ql80qlw6-terrellaws-projects.vercel.app/api?username=TerrellAW&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cached_seconds=10800)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TerrellAW&theme=react-dark&area=true&hide_border=true&height=300)
 
 ## Current Projects
