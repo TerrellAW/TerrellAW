@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+<img width="512" height="128" alt="banner" src="https://github.com/user-attachments/assets/972b5697-939a-4498-a937-6da1122e7524" />
+
 ## About Me
 
 I'm an Indie Game developer eager to expand my knowledge of game development and one day make an engine of my own.
