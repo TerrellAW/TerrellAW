@@ -39,6 +39,8 @@ I'm an Indie Game developer eager to expand my knowledge of game development and
 
 ## Current Projects
 
+<img width="108" height="88" alt="mister_bones_coding" src="https://github.com/user-attachments/assets/9399bcab-7f09-420f-8337-5ec4dd7a8018" />
+
 <div align="left">
 
   **Mobile Platformer Game** - Working on a platformer game for mobile devices
