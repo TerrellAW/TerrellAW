@@ -41,7 +41,10 @@ I'm an Indie Game developer eager to expand my knowledge of game development and
 
 <img width="108" height="88" alt="mister_bones_coding" src="https://github.com/user-attachments/assets/9399bcab-7f09-420f-8337-5ec4dd7a8018" />
 
+<br/>
+
 <div align="left">
+  <br/>
 
   **[Tenant Malicious: Quiet Plateau](https://chaiselarmanddesign.itch.io/tenant-malicious-quiet-plateau)** - Continuing work on our 2026 Arcade Jam game
 
