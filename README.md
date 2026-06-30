@@ -43,13 +43,9 @@ I'm an Indie Game developer eager to expand my knowledge of game development and
 
 <div align="left">
 
-  **Mobile Platformer Game** - Working on a platformer game for mobile devices
+  **[Tenant Malicious: Quiet Plateau](https://chaiselarmanddesign.itch.io/tenant-malicious-quiet-plateau)** - Continuing work on our 2026 Arcade Jam game
 
-  **Arcade Jam 2026 FPS Game** - Continuing work on our project from the 2026 CGDA Arcade Jam
-
-  **Top Down RPG Game** - Working with fellow students to expand on a previous game jam project
-
-  **Programming Language Implementation** - Following along with Crafting Interpreters to learn the fundamentals
+  **[Lox Language Implementation](https://github.com/TerrellAW/DotLox)** - Following along with Crafting Interpreters to learn the fundamentals
   
 </div>
 
