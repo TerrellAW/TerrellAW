@@ -48,7 +48,7 @@ I'm an Indie Game developer eager to expand my knowledge of game development and
 
   **[Tenant Malicious: Quiet Plateau](https://chaiselarmanddesign.itch.io/tenant-malicious-quiet-plateau)** - Continuing work on our 2026 Arcade Jam game
 
-  **[Lox Language Implementation](https://github.com/TerrellAW/DotLox)** - Following along with Crafting Interpreters to learn the fundamentals
+  **[Lox Language Implementation](https://github.com/TerrellAW/clox)** - Following along with Crafting Interpreters to learn the fundamentals
   
 </div>
 
