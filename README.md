@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm an Indie Game developer eager to expand my knowledge of game development and one day make an engine of my own.
+I'm an Indie Game and Software developer eager to expand my knowledge of game development and systems programming. I am fascinated by game engines, programming languages, virtual machines and operating systems and hope to learn more about implementing them.
 
 ## Technologies & Tools
 
